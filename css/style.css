@@ -1,0 +1,35 @@
+.count_posts {
+    background: green;
+    text-align: center;
+    height: 40px;
+    margin: 0;
+}
+
+.get_comment {
+    border-style: solid;
+    padding: 0;
+    margin: 0;
+}
+
+.flexstyle, .content_post {
+    border: solid;
+}
+
+.flexstyle_second {
+    border: solid;
+}
+
+.content {
+    text-align: right;
+}
+
+.star:hover {
+    color: red;
+    cursor: pointer;
+}
+
+.post_button {
+    height: 45px;
+    width: 140px;
+    font-size: 20px;
+}
